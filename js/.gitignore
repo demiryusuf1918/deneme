@@ -1,0 +1,23 @@
+# Ignore VS Code internal folders
+.vscode/*
+# Exception: keep common configuration if you want to share it with your team
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# Ignore workspace files
+*.code-workspace
+
+# img
+*.jpg
+*.png
+img/
+
+# videos
+*.mp4
+
+# packages
+
+# log
+
+password.txt
