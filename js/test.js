@@ -8,7 +8,7 @@
     <h1>MERHABA BENIM TATLI KIZIM</h1>
     <p>EGER INTERNETTE BIR SEY ARASTIRMAK ISTERSEN ASAGIDAKI LINKE TIKLAYABILIRSIN</p>
     <p>BUNU KULLANIRKEN DIKKATLI OLMAILISIN</p>
-     <a href="https://www.google.com">Google'a gIt</a>
+     <a href="https://www.google.com">Google'a gıt</a>
     <p>AYRICA MAVI ZAMBAK MAGAZA LINKI DE BURADA SATIN ALMAK ISTEDIGIN SEYLER ICIN BURAYA TIKLA</p>
     <a href="https://www.hepsiburada.com/magaza/mavi-zambak">mavi zambak</a>
     <p>TRENDYOLDA BIR SEY ALMAK ISTERSEN DE BU LINKE TIKLAYABILIRSIN</p>
