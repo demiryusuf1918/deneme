@@ -1,3 +1,0 @@
-#denemee
-## alt bilgi
-
